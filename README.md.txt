@@ -1,0 +1,2 @@
+Our approach in the system is to help drivers in case of fatigue, our system works on two things. The first is through the camera which is face recognition through the eye and mouth and also the movement of the head, the second by a sensor to measure the heart rate of the driver while hold the wheel. The system then combines the information of the two methods to give accurate results.
+You should download shape_predictor_68_face_landmarks
